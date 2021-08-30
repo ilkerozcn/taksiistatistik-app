@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "784754690699",
+    "firebase_url": "https://yeter-3dcd9-default-rtdb.firebaseio.com",
+    "project_id": "yeter-3dcd9",
+    "storage_bucket": "yeter-3dcd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784754690699:android:a5467db02b9ae12ce1e28e",
+        "android_client_info": {
+          "package_name": "com.yazlab.deneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784754690699-ist97eer51c9m2n1jjrphuiuuereqbmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkd5KhQAwKU3U6F5MCZHuiT-jzg9oLOUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784754690699-ist97eer51c9m2n1jjrphuiuuereqbmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784754690699:android:45fc9f298d17a157e1e28e",
+        "android_client_info": {
+          "package_name": "com.yazlab.yeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784754690699-ist97eer51c9m2n1jjrphuiuuereqbmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkd5KhQAwKU3U6F5MCZHuiT-jzg9oLOUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784754690699-ist97eer51c9m2n1jjrphuiuuereqbmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
